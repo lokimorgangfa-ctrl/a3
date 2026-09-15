@@ -105,7 +105,7 @@
         </div>
         <div style="position: relative;">
           <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-lg); border: 1px solid var(--color-border); background: #FFF;">
-            <img src="/assets/images/alpaca_fleece_fiber.jpg" alt="Velvetfootie flagship jacquard footie" style="width: 100%; height: auto;">
+            <img src="/assets/images/collection_aerobic_runner_crew.jpg" alt="Velvetfootie flagship jacquard footie" style="width: 100%; height: auto;">
           </div>
           <div style="position: absolute; bottom: -1rem; left: 1.5rem; background: #FFFFFF; border: 1px solid var(--color-border); padding: 0.85rem 1.4rem; border-radius: var(--radius-sm); box-shadow: var(--shadow-md); display: flex; align-items: center; gap: 0.8rem;">
             <span style="font-size: 1.3rem;">🛡️</span>
@@ -170,7 +170,7 @@
         <div class="paid-product-card">
           <span class="paid-product-badge">Best Seller</span>
           <div class="paid-product-img-wrap">
-            <img src="/assets/images/blog_200_needle_knit.jpg" alt="The Mercer Heritage Intarsia Footie">
+            <img src="/assets/images/hero_cushioned_trail_sock.jpg" alt="The Mercer Heritage Intarsia Footie">
           </div>
           <div class="paid-product-body">
             <div class="paid-product-rating">★★★★★ <span>(184)</span></div>
@@ -193,7 +193,7 @@
         <div class="paid-product-card">
           <span class="paid-product-badge">High Performance</span>
           <div class="paid-product-img-wrap">
-            <img src="/assets/images/blog_blister_prevention.jpg" alt="The Alpine Geometric Trail Footlet">
+            <img src="/assets/images/hero_micro_crew_running.jpg" alt="The Alpine Geometric Trail Footlet">
           </div>
           <div class="paid-product-body">
             <div class="paid-product-rating">★★★★★ <span>(312)</span></div>
@@ -216,7 +216,7 @@
         <div class="paid-product-card">
           <span class="paid-product-badge">New Arrival</span>
           <div class="paid-product-img-wrap">
-            <img src="/assets/images/blog_hollow_fiber.jpg" alt="The Highland Cable Low-Cut Liner">
+            <img src="/assets/images/sock_athletic_running_crew.jpg" alt="The Highland Cable Low-Cut Liner">
           </div>
           <div class="paid-product-body">
             <div class="paid-product-rating">★★★★★ <span>(94)</span></div>
@@ -239,7 +239,7 @@
         <div class="paid-product-card">
           <span class="paid-product-badge">Ultra Low Cut</span>
           <div class="paid-product-img-wrap">
-            <img src="/assets/images/blog_sustainable_shearing.jpg" alt="The 200-Needle Invisible Liner">
+            <img src="/assets/images/sock_casual_everyday_merino.jpg" alt="The 200-Needle Invisible Liner">
           </div>
           <div class="paid-product-body">
             <div class="paid-product-rating">★★★★★ <span>(520)</span></div>
@@ -266,7 +266,7 @@
     <div class="container">
       <div style="display: grid; grid-template-columns: 1fr 1.15fr; gap: 4rem; align-items: center;">
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md); border: 1px solid var(--color-border);">
-          <img src="/assets/images/seamless_toe_detail.jpg" alt="Heel tab blister guard and silicone grip anatomy">
+          <img src="/assets/images/cushion_crew.jpg" alt="Heel tab blister guard and silicone grip anatomy">
         </div>
         <div>
           <div class="section-subtitle">Micro-Engineering &bull; Anatomical Physics</div>
@@ -369,7 +369,7 @@
           </div>
         </div>
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md); border: 1px solid var(--color-border);">
-          <img src="/assets/images/featured_argyle_dress_crew_sock.jpg" alt="200-needle circular knitting loom in action">
+          <img src="/assets/images/merino_liner.jpg" alt="200-needle circular knitting loom in action">
         </div>
       </div>
     </div>
@@ -388,7 +388,7 @@
       <div class="grid-4">
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/hero_alpaca_socks.jpg" alt="Luxury Penny Loafer Pairing">
+            <img src="/assets/images/sock_merino_wool_knit.jpg" alt="Luxury Penny Loafer Pairing">
             <span class="card-tag">Formal Loafers</span>
           </div>
           <div class="card-body">
@@ -398,7 +398,7 @@
         </div>
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/crew_sock_boot_lifestyle.jpg" alt="Minimalist White Sneaker Pairing">
+            <img src="/assets/images/sock_elastic_ribbed_cuff.jpg" alt="Minimalist White Sneaker Pairing">
             <span class="card-tag">Luxury Sneaker</span>
           </div>
           <div class="card-body">
@@ -408,7 +408,7 @@
         </div>
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/knitted_sock_texture.jpg" alt="Active Trainer Pairing">
+            <img src="/assets/images/blog_terry_loop_cushioning.jpg" alt="Active Trainer Pairing">
             <span class="card-tag">Cross-Trainers</span>
           </div>
           <div class="card-body">
@@ -418,7 +418,7 @@
         </div>
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/natural_dye_skeins.jpg" alt="Summer Espadrille Pairing">
+            <img src="/assets/images/cotton_liner_black.jpg" alt="Summer Espadrille Pairing">
             <span class="card-tag">Summer Footwear</span>
           </div>
           <div class="card-body">
@@ -492,7 +492,7 @@
     <div class="container">
       <div class="grid-2">
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md); border: 1px solid var(--color-border);">
-          <img src="/assets/images/raw_botanical_fiber_harvest_lab.jpg" alt="The Mercer Street knitting studio and consultation space">
+          <img src="/assets/images/textured_rib_sock.jpg" alt="The Mercer Street knitting studio and consultation space">
         </div>
         <div>
           <div class="section-subtitle">Manhattan Atelier &bull; Bespoke Heritage</div>
